@@ -10,7 +10,7 @@ I utilized SQL to explore the data and answer key business questions to derive a
 # AdvuntureWorks dashboard
 As part of my Udemy PowerBI course, I have built a dashboard for a fictional company 'AdventureWorks'.
 The Task:
-Allow the management team trak KPIs (sales,profit,revenue,returns), compare regional performance, analyze product-level trends and identify high-value customers.
+Allow the management team track KPIs (sales,profit,revenue,returns), compare regional performance, analyze product-level trends and identify high-value customers.
 The objective:
 - Connect and transofrm raw data
 - Build a relational data model
