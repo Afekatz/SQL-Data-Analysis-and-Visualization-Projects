@@ -10,8 +10,8 @@ I utilized SQL to explore the data and answer key business questions to derive a
 
 [employees database analysis & visualization : ](https://github.com/Afekatz/SQL-Data-Analysis-and-Visualization-Projects/tree/main/employees%20project)
 
-This project is based on the 'employees' database found on github [link](https://github.com/datacharmer/test_db/blob/master/employees.sql)
-and invovles Data cleaning, Complex queries, Advanced SQL skills (Joins, Window functions, cte, etc...) and visualisation using tableau dashboard.
+7 Tasks based on the 'employees' database found on github [link](https://github.com/datacharmer/test_db/blob/master/employees.sql)
+and invovles Data cleaning, Complex queries, Advanced SQL skills (Joins, Window functions, CTEs, etc...) and visualisation using tableau dashboard.
 [link to the dashboard](https://public.tableau.com/app/profile/afek.katz/viz/EmployeesDatabasedashboard/Employees_DatabaseDashboard?publish=yes)
 
 
