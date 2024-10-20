@@ -9,8 +9,10 @@ The data contained information on users and their profile activity (likes,commen
 I utilized SQL to explore the data and answer key business questions to derive actionable insights.
 
 employees database analysis & visualization:
+
 This project is based on the 'employees' database found on github [link](https://github.com/datacharmer/test_db/blob/master/employees.sql)
 and invovles data cleaning, complex queries, deep analysis and visualisation using tableau dashboard.
+[link to the dashboard](https://public.tableau.com/app/profile/afek.katz/viz/EmployeesDatabasedashboard/Employees_DatabaseDashboard?publish=yes)
 
 
 
