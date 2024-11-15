@@ -9,7 +9,7 @@ The data contained information on users and their profile activity (likes,commen
 I utilized SQL to explore the data and answer key business questions to derive actionable insights.
 
 
-[Adventureworks Dashboard :]()
+[Adventureworks Dashboard :](https://github.com/Afekatz/SQL-Data-Analysis-and-Visualization-Projects/tree/main/Adventureworks_Dashboard)
 Adventure Works is a global manufacturing company that produces cycling equipment and accessories.
 Problem Statement:
 The Management team needs a way to track KPIs (Sales, Revenue, Profit, Returns), Compare regional performance, analyze product level trends and identify high-value customers.
